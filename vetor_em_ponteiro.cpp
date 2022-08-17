@@ -1,3 +1,5 @@
+// Programa que realiza a inversão dos valores de um determinado trecho dado do vetor.
+
 #include <iostream>
 using namespace std;
 
