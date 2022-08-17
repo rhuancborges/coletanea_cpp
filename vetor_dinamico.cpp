@@ -1,3 +1,6 @@
+/* Programa de preenchimento de um vetor dinâmico. Utilizando alocação dinâmica a cada 5 posições preenchidas, o programa para quando se preenche uma posição com o valor
+0 ou um valor negativo. São retornados na tela os valores do vetor, a sua capacidade e a quantidade de realocações que foram necessárias */
+
 #include <iostream>
 #include <cstring>
 using namespace std;
