@@ -1,3 +1,5 @@
+// Programa que testa se um número digitado é par ou ímpar
+
 #include <iostream>
 using namespace std;
 
