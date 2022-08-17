@@ -1,3 +1,5 @@
+/* Funcionalidade: dados dois pontos com coordenadas (x,y), o programa calcula a distância entre tais pontos */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
